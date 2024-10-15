@@ -5,8 +5,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ErdemOzbebek&color=blue)
 
 ### Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kullaniciadi)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/link)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/erdemozbebek_)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/815668704435896321)
 
 ### Languages & Tools I Use
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,4 +24,4 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemOzbebek&layout=compact)](https://github.com/ErdemOzbebek/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErdemOzbebek&layout=compact)](https://github.com/erslly/github-readme-stats)
