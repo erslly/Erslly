@@ -24,4 +24,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erslly&layout=compact)](https://github.com/erslly/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erslly&layout=compact)](https://github.com/erslly)
+
+### GitHub Stats
+![Erdem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erslly&show_icons=true&theme=radical)
