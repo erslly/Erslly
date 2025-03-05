@@ -21,7 +21,7 @@
 ### ⚡ Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,express,tailwind,mongodb,git,github,vscode,figma,pr,ps,ae,stackoverflow"/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,express,tailwind,mongodb,git,github,vscode,figma"/>
 </p>
 
 ---
@@ -38,7 +38,6 @@
 - 🌐 **Website:** [https://erslly.xyz](https://erslly.xyz)
 - 📧 **Email:** dev@erslly.xyz
 - 🐦 **Twitter:** [@erslly](https://x.com/ersllydev)
-- 📌 **GitHub:** [Ersly](https://github.com/erslly)
 
 ### 📈 Page Views:
 
