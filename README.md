@@ -5,11 +5,9 @@
 ![Profile Banner](https://your-banner-link.com)
 
 ### 📌 About Me:
-- 🎂 **Age:** 17
+- 🎂 **Age:** 16
 - 📍 **Location:** Turkey
-- 💼 **Occupation:** Full-Stack Web Developer
-- 💬 **Pronouns:** He/Him
-- 🎨 **Hobbies:** Digital Drawing, Making YouTube Videos, and Software Development
+- 💼 **Occupation:** Front End Developer
 
 ### 🚀 My Biggest Websites:
 
