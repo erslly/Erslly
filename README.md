@@ -1,19 +1,20 @@
 ## 👋 Hey there! I'm Erslly
 
-### 💻 Front End Developer
-
+### 💻 Front-End Developer
 
 ### 📌 About Me:
-- 🎂 **Age:** 16
-- 📍 **Location:** Turkey
-- 💼 **Occupation:** Front End Developer
+- 🎂 **Age:** 16  
+- 📍 **Location:** Turkey  
+- 💼 **Occupation:** Front-End Developer  
 
-### 🚀 My Biggest Websites:
+---
 
- [erslly.xyz](https://erslly.xyz) |
-|----------------------------------|----------------------------------|
- | ![erslly](https://your-image-link.com) |
-| **Links:** [go site](https://erslly.xyz)  |
+### 🚀 My Biggest Website:
+
+| Website |
+|---------|
+| [![erslly.xyz](https://your-image-link.com)](https://erslly.xyz) |
+| **🔗 [Go to Site](https://erslly.xyz)** |
 
 ---
 
@@ -27,20 +28,23 @@
 
 ### 📊 GitHub Stats:
 
-![Ersly's GitHub stats](https://github-readme-stats.vercel.app/api?username=erslly&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erslly&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=erslly&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erslly&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 📬 Contact Me:
-- 🌐 **Website:** [https://erslly.xyz](https://erslly.xyz)
-- 📧 **Email:** dev@erslly.xyz
-- 🐦 **Twitter:** [@erslly](https://x.com/ersllydev)
+- 🌐 **Website:** [erslly.xyz](https://erslly.xyz)  
+- 📧 **Email:** [dev@erslly.xyz](mailto:dev@erslly.xyz)  
+- 🐦 **Twitter:** [@ersllydev](https://x.com/ersllydev)  
+
+---
 
 ### 📈 Page Views:
 
 <p align="center">
   <img src="https://count.getloli.com/get/@erslly?theme=rule34"/>
 </p>
-
