@@ -1,23 +1,51 @@
-# Hi, I'm Erdem. ❤️👋
+## 👋 Hey there! I'm Erslly
 
-## 💫 Front-End Developer
+### 💻 Front End Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=ErdemOzbebek&color=blue)
+![Profile Banner](https://your-banner-link.com)
 
-### 🌐 Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/erdemozbebek_)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/815668704435896321)
+### 📌 About Me:
+- 🎂 **Age:** 17
+- 📍 **Location:** Turkey
+- 💼 **Occupation:** Full-Stack Web Developer
+- 💬 **Pronouns:** He/Him
+- 🎨 **Hobbies:** Digital Drawing, Making YouTube Videos, and Software Development
 
-### 💻 Languages & Tools I Use
+### 🚀 My Biggest Websites:
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Discord.js](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+| [mangitto.com](https://mangitto.com) | [erslly.xyz](https://erslly.xyz) |
+|----------------------------------|----------------------------------|
+| ![mangitoo](https://your-image-link.com) | ![erslly](https://your-image-link.com) |
+| **Links:** [site]() • [docs]() • [organization]() • [desktop app]() • [discord]() | **Links:** [go site](https://erslly.xyz) • [github repo](https://github.com/erslly) |
 
-### 🔝 Tools
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-### 🏆 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erslly&layout=compact)](https://github.com/erslly)
+### ⚡ Tech Stack:
 
-### 📊  GitHub Stats
-![Erdem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=erslly&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,express,tailwind,mongodb,git,github,vscode,figma,pr,ps,ae,stackoverflow"/>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+
+![Ersly's GitHub stats](https://github-readme-stats.vercel.app/api?username=erslly&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erslly&layout=compact&theme=tokyonight)
+
+---
+
+### 📬 Contact Me:
+- 🌐 **Website:** [https://erslly.xyz](https://erslly.xyz)
+- 📧 **Email:** dev@erslly.xyz
+- 🐦 **Twitter:** [@erslly](https://x.com/ersllydev)
+- 📌 **GitHub:** [Ersly](https://github.com/erslly)
+
+### 📈 Page Views:
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@erslly?theme=rule34"/>
+</p>
+
+🔥 _"Building the future, one line of code at a time."_
