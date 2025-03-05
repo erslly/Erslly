@@ -10,10 +10,10 @@
 
 ### 🚀 My Biggest Websites:
 
-| [mangitto.com](https://mangitto.com) | [erslly.xyz](https://erslly.xyz) |
+ [erslly.xyz](https://erslly.xyz) |
 |----------------------------------|----------------------------------|
-| ![mangitoo](https://p.erslly.xyz/mangitto%20.png) | ![erslly](https://your-image-link.com) |
-| **Links:** [site]() • [discord]() | **Links:** [go site](https://erslly.xyz)  |
+ | ![erslly](https://your-image-link.com) |
+| **Links:** [go site](https://erslly.xyz)  |
 
 ---
 
