@@ -2,7 +2,6 @@
 
 ### 💻 Front End Developer
 
-![Profile Banner](https://your-banner-link.com)
 
 ### 📌 About Me:
 - 🎂 **Age:** 16
@@ -13,7 +12,7 @@
 
 | [mangitto.com](https://mangitto.com) | [erslly.xyz](https://erslly.xyz) |
 |----------------------------------|----------------------------------|
-| ![mangitoo](https://your-image-link.com) | ![erslly](https://your-image-link.com) |
+| ![mangitoo](https://p.erslly.xyz/mangittobanner.png) | ![erslly](https://your-image-link.com) |
 | **Links:** [site]() • [discord]() | **Links:** [go site](https://erslly.xyz)  |
 
 ---
