@@ -45,4 +45,3 @@
   <img src="https://count.getloli.com/get/@erslly?theme=rule34"/>
 </p>
 
-🔥 _"Building the future, one line of code at a time."_
