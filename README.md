@@ -14,7 +14,7 @@
 | [mangitto.com](https://mangitto.com) | [erslly.xyz](https://erslly.xyz) |
 |----------------------------------|----------------------------------|
 | ![mangitoo](https://your-image-link.com) | ![erslly](https://your-image-link.com) |
-| **Links:** [site]() • [docs]() • [organization]() • [desktop app]() • [discord]() | **Links:** [go site](https://erslly.xyz) • [github repo](https://github.com/erslly) |
+| **Links:** [site]() • [discord]() | **Links:** [go site](https://erslly.xyz)  |
 
 ---
 
