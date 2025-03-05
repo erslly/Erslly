@@ -5,7 +5,7 @@
 ### 📌 About Me:
 - 🎂 **Age:** 16  
 - 📍 **Location:** Turkey  
-- 💼 **Occupation:** Front-End Developer  
+- 🖥️ Expertise: Modern Front-End Technologies
 
 ---
 
