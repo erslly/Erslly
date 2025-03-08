@@ -11,12 +11,22 @@
 
 ### 🚀 My Biggest Websites:
 
-| Website |
-|---------|
-| [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.xyz) |
-| **🔗 [Go to Site](https://erslly.xyz)** |
-| [![Second Site](https://p.erslly.xyz/aniki-ekran.png)](https://aniki.com.tr) |
-| **🔗 [Go to site](https://anikş.com.tr)** |
+<p align="center">
+  <a href="https://erslly.xyz" target="_blank">
+    <img src="https://p.erslly.xyz/erslly%20.png" width="250" />
+  </a>
+  <a href="https://aniki.com.tr" target="_blank">
+    <img src="https://p.erslly.xyz/aniki-ekran.png" width="250" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://erslly.xyz" target="_blank">
+    **🔗 [Go to Site](https://erslly.xyz)**
+  </a>
+  <a href="https://anikş.com.tr" target="_blank">
+    **🔗 [Go to site](https://anikş.com.tr)**
+  </a>
+</p>
 
 ---
 
