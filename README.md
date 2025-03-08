@@ -11,16 +11,18 @@
 
 ### 🚀 My Biggest Websites:
 
-| Website |
+| Website | 
 |---------|
-| <div style="width: 250px; height: auto; display: inline-block; padding: 5px; border: 2px solid #000;">
+| <div style="display: flex; gap: 10px;">
+  <div style="width: 250px; height: auto; display: inline-block; padding: 5px; border: 2px solid #000;">
     [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.xyz)
-</div> |
-| **🔗 [Go to Site](https://erslly.xyz)** |
-| <div style="width: 250px; height: auto; display: inline-block; padding: 5px; border: 2px solid #000;">
+  </div>
+  <div style="width: 250px; height: auto; display: inline-block; padding: 5px; border: 2px solid #000;">
     [![Second Site](https://p.erslly.xyz/aniki-ekran.png)](https://aniki.com.tr)
+  </div>
 </div> |
-| **🔗 [Go to site](https://anikş.com.tr)** |
+
+| **🔗 [Go to Site 1](https://erslly.xyz)** | **🔗 [Go to Site 2](https://aniki.com.tr)** |
 
 ---
 
