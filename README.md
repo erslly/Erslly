@@ -13,9 +13,13 @@
 
 | Website |
 |---------|
-| [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.xyz) |
+| <div style="width: 250px; height: auto; display: inline-block; padding: 5px; border: 2px solid #000;">
+    [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.xyz)
+</div> |
 | **🔗 [Go to Site](https://erslly.xyz)** |
-| [![Second Site](https://p.erslly.xyz/aniki-ekran.png)](https://aniki.com.tr) |
+| <div style="width: 250px; height: auto; display: inline-block; padding: 5px; border: 2px solid #000;">
+    [![Second Site](https://p.erslly.xyz/aniki-ekran.png)](https://aniki.com.tr)
+</div> |
 | **🔗 [Go to site](https://anikş.com.tr)** |
 
 ---
