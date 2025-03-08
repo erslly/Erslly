@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="https://erslly.xyz" target="_blank">
-    <img src="https://p.erslly.xyz/erslly%20.png" width="200" />
+    <img src="https://p.erslly.xyz/erslly%20.png" width="250" />
   </a>
   <a href="https://aniki.com.tr" target="_blank">
-    <img src="https://p.erslly.xyz/aniki-ekran.png" width="200" />
+    <img src="https://p.erslly.xyz/aniki-ekran.png" width="300" />
   </a>
 </p>
 
