@@ -13,8 +13,8 @@
 
 | [erslly.xyz](https://erslly.xyz) | [aniki.com.tr](https://aniki.com.tr) |
 |:-:|:-:|
-| [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.xyz) | [![aniki.com.tr](https://p.erslly.xyz/aniki-ekran.png)](https://aniki.com.tr) |
-| Links: [🌐 site](https://erslly.xyz)   | Links: [🌐 site](https://aniki.com.tr)  |
+| [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.xyz) | [![aniki.com.tr](https://p.erslly.xyz/electra.png)](https://electrabot.site) |
+| Links: [🌐 site](https://erslly.xyz)   | Links: [🌐 site](https://electrabot.site)  |
 
 ### ⚡ Tech Stack:
 ![Tech Stack](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,express,tailwind,mongodb,git,github,pnpm,vscode,vercel,bootstrap)
