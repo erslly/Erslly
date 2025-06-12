@@ -13,7 +13,7 @@
 
 | [erslly.xyz](https://erslly.xyz) | [aniki.com.tr](https://aniki.com.tr) |
 |:-:|:-:|
-| [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.xyz) | [![aniki.com.tr](https://p.erslly.xyz/electra.png)](https://electrabot.site) |
+| [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.xyz) | [![electrabot.site](https://p.erslly.xyz/electra.png)](https://electrabot.site) |
 | Links: [🌐 site](https://erslly.xyz)   | Links: [🌐 site](https://electrabot.site)  |
 
 ### ⚡ Tech Stack:
