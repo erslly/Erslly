@@ -23,8 +23,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erslly&layout=compact&theme=tokyonight)
 
 ### 📬 Contact Me:
-- 🌐 **Website:** [erslly.xyz](https://erslly.xyz)  
-- 📧 **Email:** [dev@erslly.xyz](mailto:dev@erslly.xyz)  
+- 🌐 **Website:** [erslly.dev](https://erslly.dev)  
+- 📧 **Email:** [contact@erslly.dev](mailto:contact@erslly.dev)  
 - 🐦 **Twitter:** [@ersllydev](https://x.com/ersllydev)  
 
 ### 📈 Profile Views:
