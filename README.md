@@ -11,10 +11,10 @@
 
 ### 🚀 My Biggest Websites:
 
-| [erslly.xyz](https://erslly.xyz) | [electrabot.site](https://electrabot.site) |
+| [erslly.dev](https://erslly.dev) | [electrabot.site](https://electrabot.site) |
 |:-:|:-:|
-| [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.xyz) | [![electrabot.site](https://p.erslly.xyz/electra.png)](https://electrabot.site) |
-| Links: [🌐 site](https://erslly.xyz)   | Links: [🌐 site](https://electrabot.site)  |
+| [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.dev) | [![electrabot.site](https://p.erslly.xyz/electra.png)](https://electrabot.site) |
+| Links: [🌐 site](https://erslly.dev)   | Links: [🌐 site](https://electrabot.site)  |
 
 ### ⚡ Tech Stack:
 ![Tech Stack](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,express,tailwind,mongodb,git,github,pnpm,vscode,vercel,bootstrap)
