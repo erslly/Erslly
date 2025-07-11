@@ -13,7 +13,7 @@
 
 | [erslly.dev](https://erslly.dev) | [electrabot.site](https://electrabot.site) |
 |:-:|:-:|
-| [![erslly.xyz](https://p.erslly.xyz/erslly%20.png)](https://erslly.dev) | [![electrabot.site](https://p.erslly.xyz/electra.png)](https://electrabot.site) |
+| [![erslly.xyz](https://p.erslly.dev/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-07-12%20004224.png)](https://erslly.dev) | [![electrabot.site](https://p.erslly.xyz/electra.png)](https://electrabot.site) |
 | Links: [🌐 site](https://erslly.dev)   | Links: [🌐 site](https://electrabot.site)  |
 
 ### ⚡ Tech Stack:
