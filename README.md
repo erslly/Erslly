@@ -4,7 +4,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erslly&show_icons=true&theme=tokyonight)
 
-[![AniList Widget](https://geniusanime.com/widgets/anilist?username=erslly)
+![AniList Widget](https://geniusanime.com/widgets/anilist?username=erslly)
 
 
 ---
