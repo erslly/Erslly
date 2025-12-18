@@ -2,7 +2,7 @@
 
 ### Front-End Developer
 
-![thunder.rest](https://geniusanime.com/widgets/anilist?username=erslly&theme=rule34)
+![thunder.rest](https://geniusanime.com/widgets/anilist?username=erslly)
 
 
 ---
