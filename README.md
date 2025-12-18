@@ -2,7 +2,7 @@
 
 ### Front-End Developer
 
-![thunder.rest](https://geniusanime.com/widgets/anilist?username=erslly)
+![thunder.rest](https://geniusanime.com/widgets/anilist?username=erslly&theme=dracula)
 
 
 ---
