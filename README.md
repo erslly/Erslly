@@ -11,4 +11,4 @@
 ![Tech Stack](https://skillicons.dev/icons?i=js,html,css,ts,react,nextjs,nodejs,express,tailwind,mongodb,git,github,pnpm,vscode,vercel,bootstrap)
 
 
-[discord](https://discord.gg/erslly) • [instagram](https://instagram.com/erdemozbebek_) • [anilist](https://anilist.co/user/erslly)
+[discord](https://erslly.dev/discord) • [instagram](https://erslly.dev/instagram) • [anilist](https://erslly.dev/anilist)
