@@ -2,7 +2,7 @@
 
 ### Front-End Developer
 
-![thunder.rest](https://geniusanime.com/widgets/anilist?username=erslly)
+![thunder.rest](https://awidgets.erslly.dev/widgets/anilist?username=erslly)
 ![ytmusic-widgets](https://widgets.erslly.dev/widgets/815668704435896321&theme=elite)
 
 ---
